@@ -1,0 +1,143 @@
+Circuit
+Board jBreadBoard.BreadBoard 0 672
+Device jBreadBoard.Chip integratedCircuits.ttl.logic.Gen7408 0 0 300 72
+Device jBreadBoard.Chip integratedCircuits.ttl.logic.Gen7408 0 0 124 72
+Board jBreadBoard.BreadBoard 0 840
+Device jBreadBoard.Chip integratedCircuits.ttl.logic.Gen7432 0 0 220 72
+Board jBreadBoard.BreadBoard 0 336
+Device jBreadBoard.Chip integratedCircuits.ttl.logic.Gen7408 0 0 148 72
+Board jBreadBoard.BreadBoard 0 504
+Device jBreadBoard.Chip integratedCircuits.ttl.logic.Gen7421 0 0 148 72
+Device jBreadBoard.Chip integratedCircuits.ttl.logic.Gen7432 0 0 348 72
+Board jBreadBoard.BreadBoard 0 168
+Device jBreadBoard.LED 220 128 1
+Device jBreadBoard.Chip integratedCircuits.ttl.logic.Gen7408 0 0 348 72
+Device jBreadBoard.Chip integratedCircuits.ttl.logic.Gen7432 0 0 148 72
+Board jBreadBoard.BreadBoard 0 0
+Device jBreadBoard.Chip integratedCircuits.ttl.logic.Gen7404 0 0 172 72
+Device jBreadBoard.LED 284 72 0
+Device jBreadBoard.LED 420 128 1
+Device jBreadBoard.Dipswitch 140 16 1
+Device jBreadBoard.Dipswitch 124 16 1
+Device jBreadBoard.LED 148 128 0
+Device jBreadBoard.Dipswitch 76 72 1
+Device jBreadBoard.Chip integratedCircuits.ttl.logic.Gen7432 0 0 348 72
+Board jBreadBoard.BreadBoard 504 336
+Device jBreadBoard.Chip integratedCircuits.components.HexDisplay 0 0 364 64
+Device jBreadBoard.Chip integratedCircuits.ttl.flipFlop.Gen7473 0 0 204 72
+Board jBreadBoard.BreadBoard 504 168
+Device jBreadBoard.LED 300 128 0
+Device jBreadBoard.Chip integratedCircuits.ttl.flipFlop.Gen7473 0 0 204 72
+Device jBreadBoard.Chip integratedCircuits.components.HexDisplay 0 0 364 64
+Board jBreadBoard.BreadBoard 504 504
+Device jBreadBoard.Chip integratedCircuits.ttl.flipFlop.Gen7473 0 0 204 72
+Device jBreadBoard.Chip integratedCircuits.components.HexDisplay 0 0 364 64
+Board jBreadBoard.BreadBoard 504 0
+Device jBreadBoard.Dipswitch 76 16 1
+Device jBreadBoard.Chip integratedCircuits.oscillator.GenClk 0 0 244 72
+Device jBreadBoard.LED 76 72 0
+Device jBreadBoard.LED 84 72 0
+Device jBreadBoard.LED 124 128 0
+Board jBreadBoard.BreadBoard 1008 336
+Device jBreadBoard.Chip integratedCircuits.components.HexDisplay 0 0 244 64
+Wire 255 0 0 124 688 124 712
+Wire 255 0 0 300 688 300 712
+Wire 0 0 0 172 800 172 824
+Wire 0 0 0 348 800 348 824
+Wire 255 255 255 724 216 460 216 460 720 132 720
+Wire 255 255 255 724 376 484 376 484 728 140 728
+Wire 153 153 153 716 232 524 232 524 680 308 680 308 712
+Wire 153 153 153 676 408 676 424 532 424 532 712 316 712
+Wire 255 0 0 220 856 220 880
+Wire 0 0 0 268 968 268 992
+Wire 203 49 120 724 456 492 456 492 904 244 904
+Wire 203 49 120 148 736 228 736 228 904
+Wire 203 49 120 324 736 236 736 236 904
+Wire 255 0 0 148 352 148 376
+Wire 0 0 0 196 464 196 488
+Wire 255 200 0 140 72 60 72 60 336 156 336 156 384
+Wire 255 255 0 124 48 52 48 52 344 164 344 164 384
+Wire 255 0 0 148 520 148 544
+Wire 255 0 0 348 520 348 544
+Wire 0 0 0 196 632 196 656
+Wire 0 0 0 396 632 396 656
+Wire 0 255 0 172 392 324 392 324 504 356 504 356 552
+Wire 255 200 0 188 40 188 8 36 8 36 616 148 616
+Wire 255 255 0 180 128 180 144 20 144 20 624 156 624
+Wire 0 255 0 724 392 972 392 972 504 492 504 492 648 172 648 172 608
+Wire 0 255 0 364 560 212 560 212 616 188 616
+Wire 0 255 0 724 208 724 168 988 168 988 664 180 664 180 632
+Wire 255 0 0 348 184 348 208
+Wire 0 0 0 396 296 396 320
+Wire 255 0 0 148 184 148 208
+Wire 0 0 0 196 320 196 296
+Wire 255 255 255 716 224 476 224 476 176 156 176 156 216
+Wire 255 200 0 140 56 116 56 116 168 164 168 164 216
+Wire 153 255 255 172 208 172 192 220 192 220 288
+Wire 169 94 156 724 280 444 280 444 208 372 208
+Wire 169 94 156 708 376 708 328 316 328 316 216 172 216
+Wire 255 0 0 172 16 172 40
+Wire 0 0 0 220 152 220 128
+Wire 255 255 0 124 72 124 104 172 104
+Wire 255 200 0 140 64 180 64
+Wire 255 0 0 348 16 348 40
+Wire 0 0 0 396 152 396 128
+Wire 102 255 255 188 64 284 64
+Wire 102 255 255 284 104 284 152
+Wire 255 51 204 364 208 364 128
+Wire 102 255 255 364 104 420 104 420 120
+Wire 255 255 0 180 112 332 112 332 120 356 120
+Wire 255 200 0 140 48 340 48 340 112 348 112
+Wire 153 255 255 180 120 148 120
+Wire 255 0 0 916 352 916 376
+Wire 0 0 0 932 464 932 488
+Wire 0 0 0 732 376 732 368 996 368 996 480 732 480 732 488
+Wire 255 0 0 732 464 732 472 724 472 724 480 668 480 660 480 660 352
+Wire 0 0 255 588 296 588 376
+Wire 0 0 255 588 408 588 432
+Wire 0 0 255 588 440 708 440
+Wire 51 255 255 580 296 580 376
+Wire 51 255 255 580 408 580 432
+Wire 51 255 255 580 448 716 448
+Wire 255 0 0 868 352 868 376
+Wire 0 0 0 884 464 884 488
+Wire 255 0 255 724 384 804 384 804 456 868 456
+Wire 0 255 0 356 232 420 232 420 312 556 312 556 392 676 392
+Wire 0 255 0 724 400 676 400
+Wire 0 0 0 732 208 732 192 996 192 996 304 732 304 732 320
+Wire 255 0 0 732 296 724 296 724 312 660 312 660 184
+Wire 153 255 255 724 232 804 232 804 288
+Wire 0 0 255 588 128 588 208
+Wire 0 0 255 588 240 588 264
+Wire 0 0 255 588 272 708 272
+Wire 51 255 255 580 128 580 208
+Wire 51 255 255 580 240 580 264 580 272
+Wire 51 255 255 580 288 716 288
+Wire 169 94 156 188 56 708 56 708 208
+Wire 255 0 0 868 208 868 184
+Wire 0 0 0 884 296 884 320
+Wire 255 0 255 724 224 844 224 844 288 868 288
+Wire 0 255 0 372 568 548 568 548 528 708 528 708 552
+Wire 0 0 0 732 544 732 536 996 536 996 648 732 648 732 656
+Wire 255 0 0 732 632 732 640 724 640 724 648 660 648 660 520
+Wire 255 255 255 716 376 716 344 516 344 516 648 724 648 724 616
+Wire 0 0 255 588 456 588 544
+Wire 0 0 255 588 576 588 600
+Wire 0 0 255 588 608 708 608
+Wire 51 255 255 580 456 580 544
+Wire 51 255 255 580 576 580 600
+Wire 51 255 255 580 616 716 616
+Wire 255 0 0 868 560 868 520
+Wire 0 0 0 884 632 884 656
+Wire 255 0 255 724 552 836 552 836 624 868 624
+Wire 0 0 0 580 72 580 96
+Wire 0 0 0 588 72 588 96
+Wire 0 0 0 772 128 772 152
+Wire 0 0 0 748 40 748 16
+Wire 0 0 0 588 64 596 64 772 64
+Wire 0 0 0 588 120 628 120
+Wire 255 0 255 868 280 1004 280 1004 376 1268 376
+Wire 0 0 0 1268 464 1284 464 1284 488
+Wire 255 0 0 1252 392 1252 352
+Wire 255 51 255 868 448 1260 448
+Wire 255 51 255 868 616 1012 616 1012 456 1252 456
