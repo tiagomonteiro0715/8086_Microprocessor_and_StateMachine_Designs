@@ -4,6 +4,14 @@ This repository contains the academic work from two logic systems classes at NOV
 - Logic systems I
 - Logic systems II
 
+In the Logic Systems I it got a grade of 11.5 out of 20.
+
+In the Logic Systems II it got a grade of 13 out of 20.
+
+Logic systems is great, but it wasn’t my main focus during my bachelor’s degree.
+
+I was far more interested in math, physics, control theory, and AI, which I explored extensively through Coursera courses.
+
 ## Project Structure
 
 ### Logic Systems I
@@ -86,3 +94,4 @@ This repository contains the academic work from two logic systems classes at NOV
 - David Mendes
 
 - [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
+
