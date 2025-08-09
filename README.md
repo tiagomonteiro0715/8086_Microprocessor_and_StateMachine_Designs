@@ -84,4 +84,5 @@ This repository contains the academic work from two logic systems classes at NOV
 
 - [Duarte Pereira](https://www.linkedin.com/in/duarte-pereira-349b4b319/)
 - David Mendes
+
 - [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
