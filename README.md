@@ -89,9 +89,20 @@ I was far more interested in math, physics, control theory, and AI, which I expl
 3. **Reports**: Read the detailed PDF reports for comprehensive understanding of design decisions and implementation
 
 ## Contributors
+Logic systems I:
 
-- [Duarte Pereira](https://www.linkedin.com/in/duarte-pereira-349b4b319/)
-- David Mendes
+ • [Duarte Pereira](https://www.linkedin.com/in/duarte-pereira-349b4b319/)
 
-- [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
+ • David Mendes
+
+ • [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
+
+Logic systems II:
+
+ • [Issac Furtado](https://www.linkedin.com/in/isaac-furtado-94a962379/)
+
+ • Tiago Mendes
+
+ • [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
+
 
